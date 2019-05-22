@@ -16,7 +16,7 @@ def loop_iterator(number_of_times)
         puts phrase
       end
   end
-end
+
 
 def while_iterator(number_of_times)
   # code your solution here using the "while" keyword
@@ -50,4 +50,4 @@ def for_iterator(number_of_times)
   
   end
 end
-
+end
